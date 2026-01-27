@@ -69,11 +69,25 @@ https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
+
+
+
 ### 🧰 Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+
+## 🏆 Sports & Accomplishments
+技術以外にも、スポーツを通じて培った「継続力」と「目標達成への執着心」を大切にしています。
+
+- **サッカー / フットサル (15年以上)**
+  - 幼稚園から高校までサッカーを継続。
+  - フットサルでは**全国大会出場**を経験しました。
+- **フルマラソン (Sub 3.5)**
+  - 2024年にフルマラソンに挑戦し、**3時間20分**で完走しました。
+  - データを分析し、効率的なトレーニングを積み重ねるプロセスを好みます。
 ---
 
 ## 📫 Contact
