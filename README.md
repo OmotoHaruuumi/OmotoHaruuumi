@@ -3,20 +3,28 @@
 ## 🎓 About Me
 - 🏫 **University:** [Kyoto University Graduate School of Informatics] 在学中
 - 🏠 **Hometown:** [Sapporo]
-- 🧪 **Research:** **Emergent Communication（創発コミュニケーション）** について研究しています。
-- 💡 エージェント間での言語やコミュニケーションの発生プロセスに興味があります。
+- 🧪 **Research:** **Emergent Communication（創発コミュニケーション）**
+  - エージェント間におけるコミュニケーションの創発プロセスを研究しています。 
+- 🍓 **Recent Interest:** **Raspberry Pi** を使ったエッジ AI
+  - ローカルで動作する「画像認識による沸騰検知 AI」を制作中 
 
-## 🛠 Tech Stack & Hobbies
-趣味でWeb・ゲーム・アプリなど幅広く開発しています。
+## 🛠 My Portfolio & Projects
 
-- 🎮 **Game:** Unity / C# 等を用いたゲーム制作
-- 📱 **App:** React-native / Expo 等を用いたアプリ開発
-- 🍓 **Hardware:** 最近は **Raspberry Pi** を使った電子工作にハマっています！
+### 🎮 Games
+- **[3D Tetris Puzzle](https://unityroom.com/games/arborealblocks)**
+  - クラシックなテトリスを3次元に拡張。空間把握能力が試されるパズルゲームです。
+- **[ボケタイミング判定ゲーム](https://unityroom.com/games/braveofhumor)**
+  - 高校のクラスメイトと共同開発。会話の流れを読み、最適なタイミングでボケるユニークなゲーム。
 
-## 🚀 Recent Project
-### 🍵 Local Boiling Detector (沸騰検知器)
-Raspberry Pi を使用し、外部サーバーを使わずローカル環境で動作する沸騰検知器を製作中。
-- 画像認識を用いて、キッチン周りの自動化を試みています。
+### 📱 Applications
+- **[AI 飲食店従業員教育アプリ]([https://...](https://github.com/OmotoHaruuumi/PlateScore))**
+  - AIを活用した店舗教育ソリューション。接客の質の向上と教育コストの削減を目的として開発しました。
+  - 現在 Android アプリとして配布しようと試みています。クローズドテストにご協力してくださる方はご連絡ください。
+
+### 🌐 Websites
+- **[学生寮 お祭り特設サイト](https://kumano-ryosai-2021.com/)**
+  - 学部1回生の頃に所属していた寮のイベント用に制作。初めての大規模なWeb制作プロジェクトです。
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[あなたのユーザーID]&show_icons=true&theme=radical)
