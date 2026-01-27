@@ -39,11 +39,11 @@ https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/31be2ef8-69f9-4e6f-9d5e-559bf24b1711" width="100%"><br>
-      画像撮影
+      撮影画面
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/f70e4305-2e1a-4322-a8f6-8976b8460109" width="100%"><br>
-      採点結果
+      AI が採点
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
 
 ### 🏃 Sports
 - **サッカー / フットサル (15年以上継続)**
-  - 幼稚園から高校までサッカーを続け、フットサルでは**全国大会出場**を経験しました。
+  - 幼稚園から高校までサッカーを続け、サッカーでは**全道大会準優勝**、フットサルでは**全国大会出場**を経験しました。中学・高校では副キャプテンとしてチームをまとめていました。
 - **フルマラソン (Sub 3.5)**
   - 2024年に挑戦し、**3時間20分**で完走。データを分析し、目標に向けて効率的なトレーニングを積むプロセスを得意としています。
 ---
