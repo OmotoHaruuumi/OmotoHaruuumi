@@ -6,7 +6,8 @@
 - 🧪 **Research:** **Emergent Communication（創発コミュニケーション）**
   - エージェント間におけるコミュニケーションの創発プロセスを研究しています。 
 - 🍓 **Recent Interest:** **Raspberry Pi** を使ったエッジ AI
-  - ローカルで動作する「画像認識による沸騰検知 AI」を制作中 
+  - ローカルで動作する「画像認識による沸騰検知 AI」を制作中
+    
   https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
 
 
