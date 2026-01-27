@@ -1,4 +1,4 @@
-# Hi there, I'm Haruumi Omoto 👋
+# Hi there, I'm Haruumi Omoto （尾本 晴海） 👋
 
 ## 🎓 About Me
 - 🏫 **University:** 京都大学大学院 情報学研究科 知能情報学専攻 (27卒)
