@@ -2,6 +2,7 @@
 
 ## 🎓 About Me
 - 🏫 **University:** 京都大学大学院 情報学研究科 知能情報学専攻 (27卒)
+- 🧪 **Laboratory:** 記号創発システム研究室（谷口研究室） 所属
 - 🏠 **Hometown:** 札幌
 - 🧪 **Research:** **Emergent Communication（創発コミュニケーション）**
   - エージェント間におけるコミュニケーションの創発プロセスを研究しています。 
