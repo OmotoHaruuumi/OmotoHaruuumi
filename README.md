@@ -1,4 +1,4 @@
-# Hi there, I'm [Haruumi Omoto] 👋
+# Hi there, I'm Haruumi Omoto 👋
 
 ## 🎓 About Me
 - 🏫 **University:** [Kyoto University Graduate School of Informatics] 在学中
