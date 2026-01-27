@@ -20,6 +20,12 @@
 - **[AI 飲食店従業員教育アプリ](https://github.com/OmotoHaruuumi/PlateScore)**
   - AIを活用した店舗教育ソリューション。接客の質の向上と教育コストの削減を目的として開発しました。
   - 現在 Android アプリとして配布しようと試みています。クローズドテストにご協力してくださる方はご連絡ください。
+    ![ホーム画面](https://github.com/user-attachments/assets/1a47989b-bb31-41d1-9056-22cb2392001f)
+    ![画像選択](https://github.com/user-attachments/assets/5215c2c2-e9e3-4c1d-a56f-747d44f7e2fc)
+    <img width="1170" height="2532" alt="画像撮影" src="https://github.com/user-attachments/assets/31be2ef8-69f9-4e6f-9d5e-559bf24b1711" />
+    ![採点結果after](https://github.com/user-attachments/assets/f70e4305-2e1a-4322-a8f6-8976b8460109)
+
+
 
 ### 🌐 Websites
 - **[学生寮 お祭り特設サイト](https://kumano-ryosai-2021.com/)**
