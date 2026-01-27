@@ -49,20 +49,20 @@
 
 
 
-### 🌐 Websites
+## 🌐 Websites
 - **[学生寮 お祭り特設サイト](https://kumano-ryosai-2021.com/)**
   - 学部1回生の頃に所属していた寮のイベント用に制作。初めての大規模なWeb制作プロジェクトです。
 
-###🛠 Tech Stack
+##🛠 Tech Stack
 Experience with various technologies through research and personal projects. （研究や個人プロジェクトを通じて、様々な技術に触れてきました。）
 
-## 💻 Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 🚀 AI & Frameworks & Tools
+### 🚀 AI & Frameworks & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -70,7 +70,7 @@ Experience with various technologies through research and personal projects. （
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-## 🧰 Others
+### 🧰 Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
