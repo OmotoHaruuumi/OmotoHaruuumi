@@ -8,6 +8,10 @@
 - 🍓 **Recent Interest:** **Raspberry Pi** を使ったエッジ AI
   - ローカルで動作する「画像認識による沸騰検知 AI」を制作中 
 
+https://github.com/user-attachments/assets/e6ae4be8-36fe-4de8-80f7-4f0965360997
+
+
+
 ## 🛠 My Portfolio & Projects
 
 ### 🎮 Games
