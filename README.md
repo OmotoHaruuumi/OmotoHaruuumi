@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
 技術の社会実装や、目標に向かって挑戦する活動を大切にしています。
 
 ### 🎤 Presentations
-- ** 「2025年度 人工知能学会 全国大会（第39回）」にて口頭発表 (https://confit.atlas.jp/guide/event/jsai2025/subject/3O1-OS-44a-02/tables?cryptoId=)
+- ** 「2025年度 人工知能学会 全国大会（第39回）」にて口頭発表** (https://confit.atlas.jp/guide/event/jsai2025/subject/3O1-OS-44a-02/tables?cryptoId=)
   - テーマは 「生成的言語創発モデルに基づく画像キャプション生成と画像生成のアライメント学習」 
 - **[ソーシャルサバイブプログラム ファイナルピッチ＆トーク](https://www.kyoto-u.ac.jp/ja/event/2025-12-19)**（京都大学）
   - 「小さなAIで，生活をちょっと良くする」 というテーマで発表を行う予定です（2026/01/31）
