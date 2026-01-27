@@ -1,16 +1,16 @@
 # Hi there, I'm Haruumi Omoto 👋
 
 ## 🎓 About Me
-- 🏫 **University:** Kyoto University Graduate School of Informatics - Intelligence Science and Technology 27卒
-- 🏠 **Hometown:** Sapporo
+- 🏫 **University:** 京都大学大学院 情報学研究科 知能情報学専攻 (27卒)
+- 🏠 **Hometown:** 札幌
 - 🧪 **Research:** **Emergent Communication（創発コミュニケーション）**
   - エージェント間におけるコミュニケーションの創発プロセスを研究しています。 
 - 🍓 **Recent Interest:** **Raspberry Pi** を使ったエッジ AI
-  - ローカルで動作する「画像認識による沸騰検知 AI」を制作中
-    
-  https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
+  - ローカルで動作する「画像認識による沸騰検知 AI」を制作中。
 
+https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
 
+---
 
 ## 🛠 My Portfolio & Projects
 
@@ -23,8 +23,9 @@
 ### 📱 Applications
 - **[AI 飲食店従業員教育アプリ](https://github.com/OmotoHaruuumi/PlateScore)**
   - AIを活用した店舗教育ソリューション。接客の質の向上と教育コストの削減を目的として開発しました。
-  - 現在 Android アプリとして配布しようと試みています。クローズドテストにご協力してくださる方はご連絡ください。
-    <table style="width: 100%;">
+  - 現在 Android アプリとして配布を試みています。**クローズドテストにご協力してくださる方はぜひご連絡ください。**
+
+<table style="width: 100%;">
   <tr>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/1a47989b-bb31-41d1-9056-22cb2392001f" width="100%"><br>
@@ -45,14 +46,14 @@
   </tr>
 </table>
 
-
-
-## 🌐 Websites
+### 🌐 Websites
 - **[学生寮 お祭り特設サイト](https://kumano-ryosai-2021.com/)**
   - 学部1回生の頃に所属していた寮のイベント用に制作。初めての大規模なWeb制作プロジェクトです。
 
-##🛠 Tech Stack
-Experience with various technologies through research and personal projects. （研究や個人プロジェクトを通じて、様々な技術に触れてきました。）
+---
+
+## 🛠 Tech Stack
+*Experience with various technologies through research and personal projects.*
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,5 +73,8 @@ Experience with various technologies through research and personal projects. （
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 ## 📫 Contact
-- [Mail](omotoharuumi@gmail.com)
+- 📧 **Email:** [omotoharuumi@gmail.com](mailto:omotoharuumi@gmail.com)
