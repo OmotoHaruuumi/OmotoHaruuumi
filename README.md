@@ -8,6 +8,8 @@
   - エージェント間におけるコミュニケーションの創発プロセスを研究しています。 
 - 🍓 **Recent Interest:** **Raspberry Pi を用いたエッジ AI**
   - ローカル環境で動作する「画像認識による沸騰検知 AI」を実装中。
+  - バイト先で「沸騰したことに気づかずに時間が経過してしまい，料理の濃度が変化する」という課題から取り組み始めました。
+  - 電子工作についても勉強中です。
 
 https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
 
@@ -37,6 +39,7 @@ https://github.com/user-attachments/assets/e7c0fada-7c7b-4368-acec-5b46c04f9bfa
 
 ### 📱 AI 飲食店従業員教育アプリ「PlateScore」
 AI（画像認識）を活用した店舗教育ソリューション。**TypeScript / Expo** を使用。
+- 飲食店の経営者さまから「従業員の練度や店の混雑時によって，メニューの盛り付けにばらつきがある」という課題を伺ったので，AI を使った解決策を提案しました。
 - 現在 Android アプリとして配布準備中。**クローズドテスト協力者募集中です。**
 
 <table style="width: 100%;">
