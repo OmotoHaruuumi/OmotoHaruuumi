@@ -1,7 +1,7 @@
 # Hi there, I'm Haruumi Omoto 👋
 
 ## 🎓 About Me
-- 🏫 **University:** Kyoto University Graduate School of Informatics 27卒
+- 🏫 **University:** Kyoto University Graduate School of Informatics - Intelligence Science and Technology 27卒
 - 🏠 **Hometown:** Sapporo
 - 🧪 **Research:** **Emergent Communication（創発コミュニケーション）**
   - エージェント間におけるコミュニケーションの創発プロセスを研究しています。 
@@ -59,5 +59,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[あなたのユーザーID]&layout=compact&theme=radical)
 
 ## 📫 Contact
-- [Website](URL)
-- [Twitter/X](URL)
+- [Mail](omotoharuumi@gmail.com)
