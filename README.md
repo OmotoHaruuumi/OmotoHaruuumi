@@ -96,4 +96,4 @@ AI（画像認識）を活用した店舗教育ソリューション。**TypeScr
 ## 📫 Contact
 - 📧 **Email:** [omotoharuumi@gmail.com](mailto:omotoharuumi@gmail.com)
 - 🎓 **School Email:** [omoto.haruumi.45u@st.kyoto-u.ac.jp](mailto:omoto.haruumi.45u@st.kyoto-u.ac.jp)
-- 💼 **LinkedIn:** [尾本 晴海](linkedin.com/in/晴海-尾本-3383033ab)
+- 💼 **LinkedIn:** [尾本 晴海]([linkedin.com/in/晴海-尾本-3383033ab](https://www.linkedin.com/in/%E6%99%B4%E6%B5%B7-%E5%B0%BE%E6%9C%AC-3383033ab))
