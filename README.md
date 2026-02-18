@@ -67,7 +67,7 @@ AI（画像認識）を活用した店舗教育ソリューション。**TypeScr
 ### 🎮 Games
 - **[3D Tetris Puzzle](https://unityroom.com/games/arborealblocks)** (Unity / C#)
   - クラシックなテトリスを3次元に拡張。
-- **[ボケタイミング判定ゲーム](https://unityroom.com/games/braveofhumor)** (Unity / C#)
+- **[ボケタイミング判定ゲーム](https://unityroom.com/games/legend_of_sugiru)** (Unity / C#)
   - 会話の流れを読み、最適なタイミングでボケるゲーム。高校時代の友人と共同開発。
 
 ### 🌐 Websites
