@@ -84,13 +84,18 @@ AI（画像認識）を活用した店舗教育ソリューション。**TypeScr
 
 ## 🏆 Accomplishments & Activities
 
+### 📝 Publications & Preprints
+- **[EmCom-Diffusion: Probing Visual Reflection in Emergent Languages via Image Generation](https://arxiv.org/abs/2607.03752)**
+  - *Under Review (ICONIP 2026)*
+- **[CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models](https://arxiv.org/abs/2507.11906)**
+  - *(Preprint)*
+  - 言語モデルと力学系を用いた実証実験の実装、およびデータ検証の部分で貢献。
+
 ### 🎤 Presentations
 - **[2025年度 人工知能学会 全国大会（第39回）](https://confit.atlas.jp/guide/event/jsai2025/subject/3O1-OS-44a-02/tables?cryptoId=) 口頭発表**
   - 「生成的言語創発モデルに基づく画像キャプション生成と画像生成のアライメント学習」
 - **[ソーシャルサバイブプログラム ファイナルピッチ＆トーク](https://www.kyoto-u.ac.jp/ja/event/2025-12-19)** (京都大学)
   - 「小さなAIで、生活をちょっと良くする」をテーマに**最優秀賞**受賞。
-<!-- - **[CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models](https://arxiv.org/abs/2507.11906)言語モデルと力学系を用いた実証実験の部分で貢献** -->
-
 ### 🏃 Sports
 - **サッカー / フットサル (15年以上継続)**
   - サッカー：**全道大会準優勝** - フットサル：**全国大会出場**
