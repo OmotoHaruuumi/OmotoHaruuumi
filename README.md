@@ -67,7 +67,7 @@ AI（画像認識）を活用した店舗教育ソリューション。**TypeScr
 </table>
 
 ### 🤖 AI 開発
-  - **[株式会社ながすな繭](https://www.nagasuna-mayu.jp/)** 様における物体検出 AI の学習、システム導入を行いました。
+  - **[株式会社ながすな繭](https://www.nagasuna-mayu.jp/)** 様に対して物体検出 AI の学習、システム導入を行いました。
 
 ### 🎮 Games
 - **[3D Tetris Puzzle](https://unityroom.com/games/arborealblocks)** (Unity / C#)
